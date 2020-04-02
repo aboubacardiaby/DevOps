@@ -10,3 +10,9 @@ C:\Users\DCMNMPLS\source\repos\DevOps_Tutorial\DevOps\bin\Debug\DevOps.pdb
 C:\Users\DCMNMPLS\source\repos\DevOps_Tutorial\DevOps\obj\Debug\DevOps.sqlprojAssemblyReference.cache
 C:\Users\DCMNMPLS\source\repos\DevOps_Tutorial\DevOps\obj\Debug\DevOps.dll
 C:\Users\DCMNMPLS\source\repos\DevOps_Tutorial\DevOps\obj\Debug\DevOps.pdb
+C:\Users\DCMNMPLS\source\2020M_March_br\DevOps\bin\Debug\DevOps.dacpac
+C:\Users\DCMNMPLS\source\2020M_March_br\DevOps\bin\Debug\DevOps.dll
+C:\Users\DCMNMPLS\source\2020M_March_br\DevOps\bin\Debug\DevOps.pdb
+C:\Users\DCMNMPLS\source\2020M_March_br\DevOps\obj\Debug\DevOps.sqlprojAssemblyReference.cache
+C:\Users\DCMNMPLS\source\2020M_March_br\DevOps\obj\Debug\DevOps.dll
+C:\Users\DCMNMPLS\source\2020M_March_br\DevOps\obj\Debug\DevOps.pdb
