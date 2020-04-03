@@ -8,5 +8,7 @@ INSERT [dbo].[Symptoms] ([SymptomId], [ProblemId],[Name],[Description])VALUES(5,
 INSERT [dbo].[Symptoms] ([SymptomId], [ProblemId],[Name],[Description])VALUES(6,1,'Night sweats','')
 INSERT [dbo].[Symptoms] ([SymptomId], [ProblemId],[Name],[Description])VALUES(7,1,'Cought sweats','')
 INSERT [dbo].[Symptoms] ([SymptomId], [ProblemId],[Name],[Description])VALUES(8,1,'Loss Appetit sweats','')
+INSERT [dbo].[Symptoms] ([SymptomId], [ProblemId],[Name],[Description])VALUES(8,1,'Loss Appetit sweats','')
+INSERT [dbo].[Symptoms] ([SymptomId], [ProblemId],[Name],[Description])VALUES(9,1,'Vomissement','')
 SET IDENTITY_INSERT [dbo].[Symptoms] OFF
 GO
