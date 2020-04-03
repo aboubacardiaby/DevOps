@@ -88,9 +88,11 @@
     <None Include="dbo\Scripts\Demographicdata.sql" />
     <None Include="dbo\Scripts\Genderdata.sql" />
     <None Include="dbo\Scripts\ProblemsData.sql" />
-    <None Include="dbo\Scripts\SymptomData.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="dbo\Script.PostDeployment.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PreDeploy Include="dbo\Script.PreDeployment.sql" />
   </ItemGroup>
 </Project>

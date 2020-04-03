@@ -1,4 +1,7 @@
-﻿SET IDENTITY_INSERT [dbo].[Country] ON
+﻿
+
+    
+SET IDENTITY_INSERT [dbo].[Country] ON
 GO
 
 INSERT [dbo].[Country] ([CountryId], [Name], [TwoLetterIsoCode], [ThreeLetterIsoCode], [NumericIsoCode], [CreateDate], [CreatedBy], [UpdateDate], [UpdatedBy]) VALUES (1, N'United States                                                                                       ', N'US                                                ', N'USA                                               ', N'840                                               ', CAST(N'2018-07-31T13:27:40.870' AS DateTime), N'MicrosoftAccount\aboubacardiaby@hotmail.com', NULL, NULL)
