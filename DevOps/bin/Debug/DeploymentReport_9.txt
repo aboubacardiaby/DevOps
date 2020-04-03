@@ -1,0 +1,74 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Address] (Table)
+       [dbo].[CareTeamMember] (Table)
+       [dbo].[Country] (Table)
+       [dbo].[Demographic] (Table)
+       [dbo].[Desease] (Table)
+       [dbo].[Gender] (Table)
+       [dbo].[Hospital] (Table)
+       [dbo].[MenuItem] (Table)
+       [dbo].[Patient] (Table)
+       [dbo].[Problem] (Table)
+       [dbo].[ProfessionalCategory] (Table)
+       [dbo].[Substance] (Table)
+       [dbo].[Symptoms] (Table)
+       [dbo].[DF_Address_CreateDate] (Default Constraint)
+       [dbo].[DF_Address_CreatedBy] (Default Constraint)
+       [dbo].[DF_CareTeamMember_CreateDate] (Default Constraint)
+       [dbo].[DF_CareTeamMemberId_CreatedBy] (Default Constraint)
+       [dbo].[DF_Country_CreateDate] (Default Constraint)
+       [dbo].[DF_Country_CreatedBy] (Default Constraint)
+       [dbo].[DF_Demographic_CreateDate] (Default Constraint)
+       [dbo].[DF_Demographic_CreatedBy] (Default Constraint)
+       [dbo].[DF_Desease_CreateDate] (Default Constraint)
+       [dbo].[DF_Desease_CreatedBy] (Default Constraint)
+       [dbo].[DF_Gencder_CreateDate] (Default Constraint)
+       [dbo].[DF_Gender_CreatedBy] (Default Constraint)
+       [dbo].[DF_Party_CreateDate] (Default Constraint)
+       [dbo].[DF_Party_CreatedBy] (Default Constraint)
+       [dbo].[DF_PatientId_CreateDate] (Default Constraint)
+       [dbo].[DF_PatientId_CreatedBy] (Default Constraint)
+       [dbo].[DF_Problems_CreateDate] (Default Constraint)
+       [dbo].[DF_Problems_CreatedBy] (Default Constraint)
+       [dbo].[DF_PC_CreateDate] (Default Constraint)
+       [dbo].[DF_PC_CreatedBy] (Default Constraint)
+       [dbo].[DF_Substance_CreateDate] (Default Constraint)
+       [dbo].[DF_Substance_CreatedBy] (Default Constraint)
+       [dbo].[DF_Symptoms_CreateDate] (Default Constraint)
+       [dbo].[DF_Symptoms_CreatedBy] (Default Constraint)
+       [dbo].[FK_Country_Address] (Foreign Key)
+       [dbo].[FK_CareTeamMember_Address] (Foreign Key)
+       [dbo].[FK_CareTeamMember_Gender] (Foreign Key)
+       [dbo].[FK_Hostpital_Country] (Foreign Key)
+       [dbo].[FK_Patient_Demographic] (Foreign Key)
+       [dbo].[FK_Patient_Gender] (Foreign Key)
+       [dbo].[FK_Patient_Problems] (Foreign Key)
+       [dbo].[TR_Address_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_CareTeamMember_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Country_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Demographic_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Desease_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Gender_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Hospital_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Problems_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_PC_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Substance_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[TR_Symptoms_UpdateDate_UpdatedBy] (Trigger)
+       [dbo].[Usp_AddNewPatient] (Procedure)
+       [dbo].[Usp_AddnewTeamMember] (Procedure)
+       [dbo].[Usp_GetMemberbyKeyword] (Procedure)
+       [dbo].[usp_GetPatientbyKeyWord] (Procedure)
+       [dbo].[usp_UpdatePatientInfo] (Procedure)
+
+** Supporting actions
