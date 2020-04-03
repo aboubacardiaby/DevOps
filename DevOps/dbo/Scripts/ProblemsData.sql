@@ -15,5 +15,6 @@ INSERT [dbo].[Problem] ([ProblemId],[Name],[Description])VALUES(11,'KIDNEY/URINE
 INSERT [dbo].[Problem] ([ProblemId],[Name],[Description])VALUES(12,'Women Only','')
 INSERT [dbo].[Problem] ([ProblemId],[Name],[Description])VALUES(13,'PSYCHIATRIC ','')
 INSERT [dbo].[Problem] ([ProblemId],[Name],[Description])VALUES(14,'OTHER PROBLEMS','')
+INSERT [dbo].[Problem] ([ProblemId],[Name],[Description])VALUES(15,'OTHER PROBLEMS 12','')
 SET IDENTITY_INSERT [dbo].[Problem] OFF
 GO
